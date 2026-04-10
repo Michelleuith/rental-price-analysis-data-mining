@@ -1,5 +1,5 @@
 # Rental-Price-Analysis-Data-Mining
-Data Mining &amp; Machine Learning Analysis on Rental Pricing Dataset (Malaysia)
+# 🏠 Data Mining &amp; Machine Learning Analysis on Rental Pricing Dataset (Malaysia)
 
 ## 📌 Overview
 This project analyzes rental property data in Kuala Lumpur and Selangor using Python to uncover key factors influencing rental prices and market trends.
