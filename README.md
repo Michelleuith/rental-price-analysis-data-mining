@@ -1,4 +1,3 @@
-# Rental-Price-Analysis-Data-Mining
 # 🏠 Data Mining &amp; Machine Learning Analysis on Rental Pricing Dataset (Malaysia)
 
 ## 📌 Overview
